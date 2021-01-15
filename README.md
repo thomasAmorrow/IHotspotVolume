@@ -1,5 +1,5 @@
 # IHotspotVolume
-Iterative Hotspot Volume code for calculating erupted volumes at oceanic hotspots
+A MATLAB code for calculating erupted volumes at oceanic hotspots from global compilations of bathymetry, sediment thickness, and gravity anomaly data
 
 Thomas A. Morrow,
 Eric L. Mittelstaedt
