@@ -1,0 +1,1 @@
+long(decimal degrees)	lat(decimal degrees)	age(MA)
