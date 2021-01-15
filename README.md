@@ -1,7 +1,7 @@
 # IHotspotVolume
 Iterative Hotspot Volume code for calculating erupted volumes at oceanic hotspots
 
-Thomas A. Morrow
+Thomas A. Morrow,
 Eric L. Mittelstaedt
 
 thomas.morrow <at> bc.edu
